@@ -45,15 +45,11 @@ This is an illustrative example, not a confirmed copy of the application’s act
 
 Before the successful test, the Gifts category displayed a limited set of products. After the successful injection, the page displayed a much larger set of products, including products that had not previously appeared. PortSwigger then displayed its lab-completion confirmation.
 
-Before exploitation
-
-Before exploitation
+![Before exploitation](before.png)
 
 Figure 1. Original Gifts category view.
 
-After exploitation
-
-After exploitation
+![After exploitation](after.png)
 
 Figure 2. Expanded product results and lab-completion confirmation.
 
