@@ -23,6 +23,7 @@ Each write-up documents:
 | # | Lab | Category | Status |
 |---|---|---|---|
 | 01 | SQL Injection: Retrieving Hidden Data | SQL Injection | Completed |
+| 02 | SQL Injection: Login Bypass | SQL Injection / Authentication | Completed |
 
 ## Tools & Technologies
 
